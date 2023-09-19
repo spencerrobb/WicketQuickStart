@@ -12,6 +12,7 @@ public class HomePage extends WebPage {
 
 		add(new Label("version", getApplication().getFrameworkSettings().getVersion()));
 //		add(new Label("version", getApplication().getFrameworkSettings().getVersion()));
+		//add comment
 
 		// TODO Add your page's components here
 	}
